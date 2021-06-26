@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SimpliLearn_Implement_Frameworks_DevOps" />
+        <module name="day_01" />
       </profile>
     </annotationProcessing>
   </component>
