@@ -2,18 +2,18 @@ package com.example.devops;
 
 public class Vehicle extends Car{
 
-    public Vehicle(Integer noOfWheels, Color color) {
-        super(noOfWheels, color);
+    public Vehicle(Integer noOfWheels, Color color, String brand) {
+        super(noOfWheels, color,brand);
     }
 
     @Override
     public void drive() {
-        System.out.println("Started driving");
+        System.out.println("Car is in driving mode");
     }
 
     @Override
     public void park() {
-        System.out.println("Start parking");
+        System.out.println("Car is in parking mode");
 
     }
 }
