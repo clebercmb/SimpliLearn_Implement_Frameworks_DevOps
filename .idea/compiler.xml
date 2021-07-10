@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="day_05" />
         <module name="day_03_spring_jdbc_demo" />
         <module name="day_03" />
         <module name="day_02" />
@@ -14,12 +15,16 @@
         <module name="day_03_spring_jdbc" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day_03_spring_jdbc" target="11" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="day_03" options="-parameters" />
       <module name="day_03_spring_jdbc" options="-parameters" />
       <module name="day_03_spring_jdbc_demo" options="-parameters" />
+      <module name="day_05" options="-parameters" />
     </option>
   </component>
 </project>

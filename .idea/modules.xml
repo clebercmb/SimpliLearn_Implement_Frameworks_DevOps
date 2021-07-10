@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/day_05/day_05.iml" filepath="$PROJECT_DIR$/day_05/day_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/day_03_spring_jdbc/day_03_spring_jdbc.iml" filepath="$PROJECT_DIR$/demo/day_03_spring_jdbc/day_03_spring_jdbc.iml" />
     </modules>
   </component>
 </project>
