@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/day_03_spring_jdbc_demo/pom.xml" />
         <option value="$PROJECT_DIR$/day_05/pom.xml" />
         <option value="$PROJECT_DIR$/day_05_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/day_06_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/day_06_eureka_client1/pom.xml" />
+        <option value="$PROJECT_DIR$/day_06_eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/day_06_spring_gateway/day_06_spring_gateway_server/pom.xml" />
       </list>
     </option>
   </component>
